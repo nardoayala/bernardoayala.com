@@ -15,6 +15,7 @@ disqusShortname = "hugo-vitae"
 
 [permalinks]
   posts = "/:title/"
+  pages = "/:title/"
 
 [markup]
   [markup.highlight]
@@ -54,7 +55,7 @@ disqusShortname = "hugo-vitae"
 
 [[menu.main]]
 name = "Sobre mi"
-url = "/about"
+url = "/sobre-mi"
 weight = 1
 
 [[menu.main]]
@@ -64,7 +65,7 @@ weight = 2
 
 [[menu.main]]
 name = "Contacto"
-url = "/contact"
+url = "/contacto"
 weight = 3
 
 
