@@ -1,6 +1,8 @@
 ---
 title: "Array methods que deberías conocer"
-date: 2020-04-05T11:00:56-04:00
+author: "Bernardo Ayala"
+type: "posts"
+date: 2020-04-05
 draft: true
 categories: "Programacion"
 tags: [javascript, fundamentos]
