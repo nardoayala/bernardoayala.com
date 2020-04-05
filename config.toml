@@ -1,0 +1,70 @@
+baseURL = "http://bernardoayala.com"
+languageCode = "en-us"
+title = "Bernardo Ayala"
+theme = "hugo-vitae"
+paginate = 5
+
+copyright = "Diseño inspirado en el [blog](https://www.taniarascia.com/) de [Tania Rascia](https://twitter.com/taniarascia)"
+
+# pygmentsstyle = "colorful"
+# pygmentscodefences = true
+# pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-123-45"
+disqusShortname = "hugo-vitae"
+
+[permalinks]
+  posts = "/:title/"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
+  [markup.goldmark.renderer]
+    unsafe= true
+
+[taxonomies]
+	tag = "tags"
+	series = "series"
+  category = "categories"
+
+[params]
+	subtitle = "Frontend developer"
+
+	# Optional 80x80 avatar image.
+	avatar = "/img/glasses.svg"
+
+  # Profile picture
+  profilePicture = "/img/profile-picture.png"
+
+	# Content types to disable Disqus on.
+	disableDisqusTypes = ["page", "posts"]
+
+	# Custom CSS applied to default styles.
+	customCSS = "css/custom.css"
+
+# Nav.
+
+[[menu.main]]
+name = "Sobre mi"
+url = "/about"
+weight = 1
+
+[[menu.main]]
+name = "Articulos"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Contacto"
+url = "/contact"
+weight = 3
+
+

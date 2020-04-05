@@ -1,0 +1,2 @@
+# My personal blog
+This is my personal blog built with Hugo. I modified the [Hugo Vitae](https://themes.gohugo.io/hugo-vitae/) theme in order to look like [Tania Rascia's](https://www.taniarascia.com/) personal site.
