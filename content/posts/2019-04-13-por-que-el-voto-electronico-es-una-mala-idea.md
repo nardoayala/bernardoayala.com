@@ -6,7 +6,7 @@ date: 2019-04-13
 subtitle: ""
 image: ""
 tags: ["voto electrónico","democracia"]
-categories: "Tecnologia"
+categories: "Tecnología"
 icon: "/img/icons/vote.png"
 ---
 

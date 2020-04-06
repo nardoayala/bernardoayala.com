@@ -2,10 +2,10 @@
 title: "Tips para crear buenas contraseñas"
 author: "Bernardo Ayala"
 type: "posts"
-date: 2020-03-27
+date: 2020-04-02
 draft: false
-tags: ["contraseñas"]
-categories: "Tecnologia"
+tags: ["contraseñas", "seguridad"]
+categories: "Tecnología"
 icon: "/img/icons/password.png"
 ---
 

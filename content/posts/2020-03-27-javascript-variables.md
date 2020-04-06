@@ -2,9 +2,9 @@
 title: "Variables en JavaScript"
 author: "Bernardo Ayala"
 type: "posts"
-date: 2020-03-16
+date: 2020-03-27
 draft: false
-categories: "Programacion"
+categories: "Programación"
 tags: [javascript, fundamentos]
 icon: "/img/icons/js.png"
 ---
