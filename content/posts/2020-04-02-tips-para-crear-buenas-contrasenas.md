@@ -11,7 +11,7 @@ icon: "/img/icons/password.png"
 
 Aunque tú pienses que tu mundo digital está mágicamente protegido por la genial contraseña imposible de adivinar que se te ocurrió, los más probable es que a una computadora no le llevará más de un día descifrarla. Y lo que es peor, si eres como la mayoría de las personas, seguro has usado la misma  contraseña en más de algún portal (lo peor que puedes hacer).
 
-Por estas razones se me ocurrió hacer una listica no muy exhaustiva de algunas buenas prácticas a la hora de crear una contraseña.
+Por estas razones se me ocurrió hacer una lista no muy exhaustiva de algunas buenas prácticas a la hora de crear una contraseña.
 
 ### Tips para crear una buena contraseña:
 
@@ -43,7 +43,7 @@ Por estas razones se me ocurrió hacer una listica no muy exhaustiva de algunas 
 
 - **Activa la verificación de dos pasos (2FA)**:
 
-  Esto puede sonar un poquito a chino si no eres muy dado a la tecnología, pero en resumen lo que significa es que además de pedirte tu contraseña, los portales te pedirán un código de verificación para saber si eres tú quien está ingresando.
+  Esto puede ser un poco confuso si no eres muy dado a la tecnología, pero en resumen lo que significa es que además de pedirte tu contraseña, los portales te pedirán un código de verificación para saber si eres tú quien está ingresando.
 
   No es complicado de configurar, y la mayoría de los sitios importantes tienen guías muy completas para que hacerlo sea lo más sencillo posible.
 
@@ -53,15 +53,17 @@ Por estas razones se me ocurrió hacer una listica no muy exhaustiva de algunas 
 
   Este más que un tip para crear una contraseña fuerte es una estrategia para protegerte. Cualquier correo que te llegue indicando que tienes que cambiar tu contraseña o que tienes que ingresar al portal a través de un link es falso, mándalo directo a la papelera (como hiciste con las fotos de tu ex).
 
-  Millones de correos como ese son mandados todos los días a millones de víctimas en el mundo para ver quien cae (con que el 1% caiga obtienen miles de contraseñas). Eso se conoce como pishing.
+  Millones de correos como ese son mandados todos los días a millones de víctimas en el mundo para ver quien cae (con que el 1% caiga obtienen miles de contraseñas). Eso se conoce como phishing.
 
-  Protégete mucho del pishing, no importa lo prudente o inteligente que seas, cualquiera persona puede ser engañada, especialmente cuando te llega un correo avisándote que van a cerrar tu cuenta a menos que ingreses inmediatamente. Es muy común que este tipo de correo intenten manipularte a través de tus sentimientos.
+  Protégete mucho del phishing, no importa lo prudente o inteligente que seas, cualquiera persona puede ser engañada, especialmente cuando te llega un correo avisándote que van a cerrar tu cuenta a menos que ingreses inmediatamente. Es muy común que este tipo de correo intenten manipularte a través de tus sentimientos.
 
 ### Conclusiones finales:
 
-Lo ideal sería utilizar contraseñas larguísimas y aleatorias en cada uno de nuestros portales, pero eso sería imposible de recordar. Más adelante escribiré una guía de cómo usar gestores de contraseña que recordaran todo eso por ti haciendo tu vida digital más fácil y más segura, aunque eso de "más segura" siempre será relativo.
+Lo ideal sería utilizar contraseñas larguísimas y aleatorias en cada uno de nuestros portales, pero eso sería imposible de recordar. En un próximo post escribiré una guía de cómo usar gestores de contraseña que recordaran todo eso por ti haciendo tu vida digital más fácil y más segura, aunque eso de "más segura" siempre será relativo.
 
-Si tuvieses que elegir una sola cuenta para proteger tu prioridad debería ser siempre tu correo electrónico. Esa es la base de tu vida digital. Desde tu correo pueden reiniciar la contraseña de cualquier otro servicio y si te roban el acceso eso puede arruinarte la vida. Probablemente tengas ahí información muy valiosa como imágenes de tus documentos de identidad y los de tu familia, contratos, datos bancarios, etc. Protege tu correo como si fuese el último pedacito de torta en la nevera.
+Si tuvieses que elegir una sola cuenta para proteger tu prioridad debería ser siempre tu correo electrónico. Esa es la base de tu vida digital. Desde tu correo pueden reiniciar la contraseña de cualquier otro servicio y si te roban el acceso eso puede arruinarte la vida.
+
+Probablemente tengas ahí información muy valiosa como imágenes de tus documentos de identidad y los de tu familia, contratos, datos bancarios, etc. Protege tu correo como si fuese el último pedacito de torta en la nevera.
 
 Recuerda siempre que en lo referente a la seguridad digital uno no está realmente completamente seguro. Si robar tu contraseña representa que los criminales tengan acceso a millones de dólares, lo más probable es que te caigan a palazos hasta que se las des, así que siempre analiza en qué nivel de riesgo estás.
 
