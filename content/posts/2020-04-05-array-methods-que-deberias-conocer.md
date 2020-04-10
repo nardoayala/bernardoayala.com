@@ -34,7 +34,7 @@ Pero además de estos dos que son quizás de los más usados, contamos con un mu
   
 - **\[ \].filter()**:
 
-  Con `filter()` también se crea un nuevo array a partir de otro, pero en este caso el nuevo array estará compuesto por todos los elementos del array original que cumplan una condición.
+  Con `filter()` se crea un nuevo array a partir de otro, pero en este caso el nuevo array estará compuesto por todos los elementos del array original que cumplan una condición.
 
   ```javascript
   const fruit = ["banana", "melón", "manzana", "pera", "patilla", "naranja"]
@@ -181,6 +181,6 @@ Pero además de estos dos que son quizás de los más usados, contamos con un mu
   // ["Alberto", "Bárbara", "Carla", "Pedro"]
   ```
 
-Existen muchos otros métodos y todos tienen su utilidad. Pero estos son los que me parecieron que eran más útiles y a la vez poco conocidos. Puedes chequear todos los métodos disponibles en la [documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array) sobre los array de la MDN.
+Existen muchos otros métodos y todos tienen su utilidad. Pero estos son los que me parecieron que eran más útiles y a la vez poco conocidos. Puedes chequear todos los métodos disponibles en la [documentación](https://developer.mozilla.org/es/docs/Web/JavaScript/Referencia/Objetos_globales/Array) sobre los arrays de la MDN.
 
 Puedes vivir sin ninguno de ellos. Pero siempre me ha parecido que si existen es provechoso saber cuando menos para que sirven. Así no los uses nunca. De esta forma cuando leas código que los contenga podrás entender mucho mejor que está sucediendo.
