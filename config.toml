@@ -6,12 +6,8 @@ paginate = 5
 
 copyright = "Diseño inspirado en el [blog](https://www.taniarascia.com/) de [Tania Rascia](https://twitter.com/taniarascia)"
 
-# pygmentsstyle = "colorful"
-# pygmentscodefences = true
-# pygmentscodefencesguesssyntax = true
-
-googleAnalytics = "UA-123-45"
-disqusShortname = "hugo-vitae"
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "hugo-vitae"
 
 [permalinks]
   posts = "/:title/"
@@ -26,7 +22,7 @@ disqusShortname = "hugo-vitae"
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "dracula"
+    style = "monokai"
     tabWidth = 4
   [markup.goldmark.renderer]
     unsafe= true
