@@ -47,6 +47,8 @@ copyright = "Diseño inspirado en el [blog](https://www.taniarascia.com/) de [Ta
 	# Custom CSS applied to default styles.
 	customCSS = "css/custom.css"
 
+  description = "Bernardo Ayala - Frontend developer"
+
 # Nav.
 
 [[menu.main]]
