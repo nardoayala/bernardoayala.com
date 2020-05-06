@@ -1,5 +1,5 @@
 ---
-title: "Guía qwerty para crear una contraseña segura"
+title: "Guía para crear una contraseña segura"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-04-02
