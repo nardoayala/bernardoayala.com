@@ -1,5 +1,6 @@
 ---
 title: "Santa es una mentira mucho más elaborada"
+slug: "santa-un-mejor-cuento"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2019-07-14

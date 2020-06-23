@@ -1,5 +1,6 @@
 ---
 title: "Guía para crear una contraseña segura"
+slug: "crear-una-contrasena-segura"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-04-02

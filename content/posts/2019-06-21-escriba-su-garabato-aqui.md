@@ -1,5 +1,6 @@
 ---
 title: "Escriba su garabato aquí y confiaremos en usted"
+slug: "escriba-su-garabato"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2019-06-21

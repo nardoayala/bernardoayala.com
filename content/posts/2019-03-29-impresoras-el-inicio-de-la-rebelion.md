@@ -1,5 +1,6 @@
 ---
 title: "Impresoras, el inicio de la rebelión"
+slug: "impresoras-la-rebelion"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2019-03-29

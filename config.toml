@@ -10,7 +10,7 @@ copyright = "Diseño inspirado en el [blog](https://www.taniarascia.com/) de [Ta
 # disqusShortname = "hugo-vitae"
 
 [permalinks]
-  posts = "/:title/"
+  posts = "/:slug/"
   pages = "/:title/"
 
 [markup]

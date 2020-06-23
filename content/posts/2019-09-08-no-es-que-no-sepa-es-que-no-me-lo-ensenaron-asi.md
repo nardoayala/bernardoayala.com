@@ -1,5 +1,6 @@
 ---
 title: "No es que no sepa, es que no me lo enseñaron así"
+slug: "no-me-lo-ensenaron-asi"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2019-09-08

@@ -1,5 +1,6 @@
 ---
 title: "Nadie me dijo que tenía que ser constante"
+slug: "ser-constante"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2019-05-15

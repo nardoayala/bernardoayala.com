@@ -1,5 +1,6 @@
 ---
 title: "Array methods que deberías conocer"
+slug: "array-methods"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-04-08

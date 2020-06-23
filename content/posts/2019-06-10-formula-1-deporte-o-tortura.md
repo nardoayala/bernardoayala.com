@@ -1,5 +1,6 @@
 ---
 title: "Fórmula 1, ¿deporte o tortura?"
+slug: "formula1-una-tortura"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2019-06-10

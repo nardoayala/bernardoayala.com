@@ -1,5 +1,6 @@
 ---
 title: "Cómo usar un gestor de contraseñas"
+slug: "gestor-de-contrasena"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-06-23
@@ -19,7 +20,7 @@ Lo primero es ir a la página de [Bitwarden](https://bitwarden.com/) y antes de 
 
 ![bitwarden-homepage](/img/screenshots/bitwarden-homepage.png)
 
-Eso te llevará a un formulario que tendrás que rellenar. Es muy importante que la contraseña que utilices en el campo "Master Password" sea bastante fuerte y que a la vez puedas recordarla (será la única contraseña que tendrás que recordar). Te dejo el link de mi [guía para crear una contraseña segura](/guía-para-crear-una-contraseña-segura/) que puede serte útil en este paso.
+Eso te llevará a un formulario que tendrás que rellenar. Es muy importante que la contraseña que utilices en el campo "Master Password" sea bastante fuerte y que a la vez puedas recordarla (será la única contraseña que tendrás que recordar). Te dejo el link de mi [guía para crear una contraseña segura](/crear-una-contrasena-segura/) que puede serte útil en este paso.
 
 ![bitwarden-login](/img/screenshots/bitwarden-singup.png)
 
@@ -85,4 +86,4 @@ Algunos otros de los más conocidos son:
 + [1Password](https://1password.com/es/)
 + [KeePass](https://keepass.info/)
 
-Independientemente de cual elijas estoy seguro que no te vas a arrepentir de aprender a utilizarlos. El primer paso para proteger tu vida digital es utilizar una buena contraseña y como estas son tan difíciles de recordar un buen gestor será nuestro mayor aliado.
+El primer paso para proteger tu vida digital es utilizar una buena contraseña y como estas son tan difíciles de recordar un buen gestor será un buen aliado.

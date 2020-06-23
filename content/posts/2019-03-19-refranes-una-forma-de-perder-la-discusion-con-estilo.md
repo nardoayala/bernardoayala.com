@@ -1,5 +1,6 @@
 ---
 title: "Refranes, una forma de perder la discusión con estilo"
+slug: "refranes-absurdos"
 author: "Bernardo Ayala"
 type: "posts"
 date: "2019-03-19"

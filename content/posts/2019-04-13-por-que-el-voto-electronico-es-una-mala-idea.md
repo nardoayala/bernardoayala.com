@@ -1,5 +1,6 @@
 ---
 title: "Por qué el voto electrónico es una mala idea"
+slug: "voto-electronico"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2019-04-13
