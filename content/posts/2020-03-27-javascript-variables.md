@@ -8,6 +8,8 @@ categories: "Programación"
 tags: [javascript, fundamentos]
 icon: "/img/icons/js.png"
 ---
+Este post está basado en gran parte en el artículo [Understanding Variables, Scope and Hoisting in JavaScript](https://www.taniarascia.com/understanding-variables-scope-hoisting-in-javascript/) disponible en el [blog](https://www.taniarascia.com) de Tania Rascia.
+
 ## Introducción
 
 En este artículo trataré de explicar cuales son las propiedades de las variables en JavaScript, así como las convenciones que existen al momento de nombrarlas.
