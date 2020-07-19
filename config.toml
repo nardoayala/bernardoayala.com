@@ -6,8 +6,8 @@ paginate = 5
 
 copyright = "Diseño inspirado en el [blog](https://www.taniarascia.com/) de [Tania Rascia](https://twitter.com/taniarascia)"
 
-# googleAnalytics = "UA-123-45"
-# disqusShortname = "hugo-vitae"
+googleAnalytics = "UA-171249207-1"
+disqusShortname = "bernardoayala"
 
 [permalinks]
   posts = "/:slug/"
@@ -42,7 +42,7 @@ copyright = "Diseño inspirado en el [blog](https://www.taniarascia.com/) de [Ta
   profilePicture = "/img/profile-picture.png"
 
 	# Content types to disable Disqus on.
-	disableDisqusTypes = ["page", "posts"]
+	disableDisqusTypes = ["page"]
 
 	# Custom CSS applied to default styles.
 	customCSS = "css/custom.css"
