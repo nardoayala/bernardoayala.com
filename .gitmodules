@@ -1,4 +1,4 @@
 [submodule "themes/hugo-vitae"]
 	path = themes/hugo-vitae
-	url = git@github.com:nardoyala/hugo-vitae.git
+	url = https://github.com/nardoyala/hugo-vitae.git
 	branch = custom
