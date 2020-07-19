@@ -2,7 +2,7 @@ baseURL = "https://bernardoayala.com"
 languageCode = "en-us"
 title = "Bernardo Ayala"
 theme = "hugo-vitae"
-paginate = 5
+paginate = 100
 
 copyright = "Diseño inspirado en el [blog](https://www.taniarascia.com/) de [Tania Rascia](https://twitter.com/taniarascia)"
 
@@ -12,6 +12,7 @@ disqusShortname = "bernardoayala"
 [permalinks]
   posts = "/:slug/"
   pages = "/:title/"
+  categories = "/:title/"
 
 [markup]
   [markup.highlight]
@@ -57,13 +58,8 @@ url = "/sobre-mi"
 weight = 1
 
 [[menu.main]]
-name = "Articulos"
-url = "/posts"
-weight = 2
-
-[[menu.main]]
 name = "Contacto"
 url = "/contacto"
-weight = 3
+weight = 2
 
 
