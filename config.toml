@@ -13,6 +13,7 @@ disqusShortname = "bernardoayala"
   posts = "/:slug/"
   pages = "/:title/"
   categories = "/:title/"
+  tags = "/:title/"
 
 [markup]
   [markup.highlight]
@@ -42,6 +43,12 @@ disqusShortname = "bernardoayala"
   # Profile picture
   profilePicture = "/img/profile-picture.png"
 
+  # Greeting message
+  greetingMessage = "¡Hola! Soy Bernardo"
+
+  # Small about me
+  about = "Soy un desarrollador Frontend. Este es un espacio donde escribo guías sobre cosas que he ido aprendiendo, así como también opiniones y artículos de humor."
+
 	# Content types to disable Disqus on.
 	disableDisqusTypes = ["page"]
 
@@ -49,6 +56,9 @@ disqusShortname = "bernardoayala"
 	customCSS = "css/custom.css"
 
   description = "Bernardo Ayala - Frontend developer"
+
+[social]
+  github = "nardoyala"
 
 # Nav.
 
@@ -62,4 +72,22 @@ name = "Contacto"
 url = "/contacto"
 weight = 2
 
+# List of tools used to build the page
+[[params.tools]]
+  name = "Hugo"
+  title = "Built with HUGO"
+  icon = "/img/icons/hugo.png"
+  url = "https://gohugo.io/"
+
+[[params.tools]]
+  name = "icons8"
+  title = "Icons from icons8"
+  icon = "/img/icons/icons8.png"
+  url = "https://icons8.com/"
+
+[[params.tools]]
+  name = "Netlify"
+  title = "Hosted by Netlify"
+  icon = "/img/icons/netlify.png"
+  url = "/img/icons/netlify.png"
 
