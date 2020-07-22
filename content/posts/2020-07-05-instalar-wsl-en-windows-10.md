@@ -12,7 +12,8 @@ icon: "/img/icons/linux.png"
 
 Una de las herramientas que más hecho en falta cuando estoy desarrollando en Windows es una buena línea de comandos. Existen buenas alternativas para resolver este problema, una sería instalar un buen emulador de terminal como [cmder]( https://cmder.net/).
 
-Sin embargo, existe una forma de poder utilizar la terminal de Linux dentro de Windows. Esto podemos lograrlo a través del Windows Subsystem for Linux (WSL). Que básicamente nos permite instalar una distribución de Linux dentro de Windows.
+Sin embargo, existe una forma de poder utilizar la terminal de Linux dentro de Windows. Esto podemos lograrlo a través del <abbr title="Windows Subsystem for Linux">WSL</abbr>, que básicamente nos permite instalar una distribución de Linux dentro de Windows.
+
 En esta guía voy a listar los pasos para instalar el WSL, instalar ZSH y como correr el Shell de Linux dentro de la nueva Windows Terminal, para esto lo primero que tienes que hacer es actualizar Windows 10 hasta su última versión.
 
 ### Habilitar el modo desarrollador
