@@ -7,7 +7,7 @@ date: 2019-05-15
 subtitle: ""
 image: ""
 tags: ["constancia","escritura"]
-categories: "Pensamientos Random"
+categories: "Opiniones"
 ---
 No es la primera vez que de repente veo para los lados y pienso, “Esto era más fácil de hacer en mi cabeza”.<!--more-->
 

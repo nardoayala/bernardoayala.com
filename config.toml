@@ -1,4 +1,4 @@
-baseURL = "https://bernardoayala.com"
+baseURL = "https://bernardoayala.com/"
 languageCode = "en-us"
 title = "Bernardo Ayala"
 theme = "hugo-vitae"
@@ -90,4 +90,14 @@ weight = 2
   title = "Hosted by Netlify"
   icon = "/img/icons/netlify.png"
   url = "/img/icons/netlify.png"
+
+[[params.social]]
+name = "Github"
+icon = "fab fa-github"
+url = "https://github.com/nardoyala"
+
+[[params.social]]
+name = "Twitter"
+icon = "fab fa-twitter"
+url = "https://twitter.com/nardoyala"
 
