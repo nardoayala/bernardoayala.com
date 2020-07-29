@@ -11,7 +11,7 @@ icon: "/img/icons/tech.png"
 ---
 Es un lugar común escuchar que en el pasado las cosas se fabricaban para durar toda la vida, mientras que actualmente la mayoría de las cosas que compramos son desechables. ¿Es planificada esta reducción en la durabilidad? <!--more-->
 
-![Obsolete-electronics](/img/obsolete-elecs.jpg)
+![Obsolete-electronics](/img/obsolete-elecs.webp)
 
 La obsolescencia programada en resumen significa que las empresas fabrican sus productos para que duren menos de lo que debería ser su vida útil. Esto significa que deliberadamente crean productos que se dañen antes de tiempo, con la finalidad de que tengamos que estar constantemente comprando nuevos equipos.
 
@@ -31,7 +31,7 @@ La razón de que los aparatos no tengan una vida útil tan extensa somos los mis
 
 Tengo un celular Motorola del año 2005, está en perfecto estado y sigue funcionando para hacer llamadas y mandar SMS, pero Whatsapp fue creado en el 2009, así que es imposible instalarle la aplicación.
 
-![Grandma-phone](/img/grandma-phone.jpg)
+![Grandma-phone](/img/grandma-phone.webp)
 
 Por esa razón compré un teléfono nuevo, compatible con las últimas aplicaciones, nadie me obligó, me podía quedar con mi ladrillo si quería.
 

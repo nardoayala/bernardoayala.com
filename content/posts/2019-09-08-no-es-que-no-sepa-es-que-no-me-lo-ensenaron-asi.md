@@ -18,7 +18,7 @@ El problema es cuando me preguntan cosas que en mi posición de adulto educado d
 
 Donde me he encontrado con más frecuencia este problema es con las tareas de matemáticas, que paradójicamente mientras más básicas son, más difícil me es dar una respuesta acertada.
 
-![](/img/calculating.jpg)
+![](/img/calculating.webp)
 
 Con las matemáticas pasa algo muy curioso y es que a pesar de ser hermosas, hay muchas cosas que me enseñaron de niño que no volví a usar jamás (a pesar de que mis maestras me juraron que no podría vivir un sólo día sin ellas).
 
