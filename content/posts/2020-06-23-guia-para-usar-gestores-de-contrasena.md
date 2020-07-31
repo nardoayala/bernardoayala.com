@@ -18,27 +18,27 @@ En este post voy a explicar como utilizar y configurar Bitwarden, que es el gest
 
 Lo primero es ir a la página de [Bitwarden](https://bitwarden.com/) y antes de instalar nada lo primero que debes hacer es crear una cuenta seleccionando donde dice "Create account".
 
-![bitwarden-homepage](/img/screenshots/bitwarden-homepage.png)
+![bitwarden-homepage](/img/screenshots/bitwarden-homepage.webp)
 
 Eso te llevará a un formulario que tendrás que rellenar. Es muy importante que la contraseña que utilices en el campo "Master Password" sea bastante fuerte y que a la vez puedas recordarla (será la única contraseña que tendrás que recordar). Te dejo el link de mi [guía para crear una contraseña segura](/crear-una-contrasena-segura/) que puede serte útil en este paso.
 
-![bitwarden-login](/img/screenshots/bitwarden-singup.png)
+![bitwarden-login](/img/screenshots/bitwarden-singup.webp)
 
 Completado este paso ya tendrás una cuenta y puedes empezar a almacenar tus contraseñas en tu "vault", que es el depósito donde estarán guardadas. Imagínatelo como una caja fuerte virtual donde estarán todas tus credenciales.
 
-![bitwarden-login](/img/screenshots/bitwarden-login.png)
+![bitwarden-login](/img/screenshots/bitwarden-login.webp)
 
 A pesar de que ya puedes empezar a usar Bitwarden desde su versión web, resulta mucho más útil y práctico instalar la extensión de navegador para poder guardarlas automáticamente una vez inicies sesión así como también tener acceso a tus credenciales desde cualquier sitio web. Para esto debes volver a la página principal de Bitwarden y darle click al botón que dice "Install Now".
 
-![bitwarden-homepage2](/img/screenshots/bitwarden-homepage2.png)
+![bitwarden-homepage2](/img/screenshots/bitwarden-homepage2.webp)
 
 Esto te va a llevar a la sección de descargas. Puedes instalar Bitwarden en windows pero a mi me resulta más útil instalar la extensión del navegador. Así que en la sección donde dice "Web browser" elige el navegador que usas. En este ejemplo elegiremos Google Ghrome.
 
-![bitwarden-download](/img/screenshots/bitwarden-download.png)
+![bitwarden-download](/img/screenshots/bitwarden-download.webp)
 
 Una vez instalada la extensión te va a aparecer el símbolo de Bitwarden a la derecha de la barra de direcciones. Al darle click te va a desplegar una ventana en la cual deberás ingresar tu correo y contraseña maestra.
 
-![bitwarden-plugin-extension](/img/screenshots/bitwarden-extension-login.png)
+![bitwarden-plugin-extension](/img/screenshots/bitwarden-extension-login.webp)
 
 ¡Listo!, ya puedes empezar a guardar tus contraseñas en Bitwarden. Lo mejor es que no tienes que hacerlo a mano. Cada vez inicies sesión en un portal, la extensión te preguntará si quieres guardar tus credenciales en tu vault.
 
@@ -50,13 +50,13 @@ Una vez que inicias sesión se abre una ventana donde tendrás acceso a todas tu
 
 Dándo click ahí puedes agregar tus credenciales. Lo recomendable es hacerlo cuando estés en la página web de la cual quieras guardar tus datos (twitter por ejemplo), para que Bitwarden automaticamente asocie esa página web con tu usuario y contraseña.
 
-![bitwarden-save-password](/img/screenshots/bitwarden-add-password.png)
+![bitwarden-save-password](/img/screenshots/bitwarden-add-password.webp)
 
 Ahí lo único que tendrías que hacer es rellenar el formulario con tu nombre de usuario y contraseña, y después darle "Save". La idea de que hagas esto en la página que corresponde a tus credenciales es que Bitwarden rellena automáticamente la sección "url" del formulario y esto más adelante va a permitir que puedas utilizar la función de auto-rellenar.
 
 Otra opción más sencilla para guardar tus credenciales es ingresar a algún portal como lo harías normalmente, si tu vault está abierto la extensión te preguntará "deseas que Bitwarden guarde tus datos" a lo que puedes responder "hell yeah, that's why I'm paying you".
 
-![bitwarden-save-credntials](/img/screenshots/bitwarden-extension-save-credentials.png)
+![bitwarden-save-credntials](/img/screenshots/bitwarden-extension-save-credentials.webp)
 
 Ahora la próxima vez que entres al portal Bitwarden detectará que tienes un password guardado para el sitio. Al darle click a la extensión te mostrará las credenciales correspondientes, a las cuales tendrás que darle click para que se auto rellenen.
 
@@ -70,11 +70,11 @@ Otra de las ventajas de usar gestores es que vienen con un generador de contrase
 
 Para utilizar este generador nuevamente tienes que hacer click a la extensión y en la ventana que se abre debese ir a la parte inferior y darle click a la opción que dice "Generator".
 
-![bitwarden-password-generator](/img/screenshots/bitwarden-password-generator.png)
+![bitwarden-password-generator](/img/screenshots/bitwarden-password-generator.webp)
 
 Esto nos generará un password aleatorio bastante fuerte al cual podremos agregar o restar complejidad moviendo las opciones disponibles. Una vez estés conforme con el resultado puedes copiar el password y utilizarlo para lo que lo necesites. Si necesitas almacenarlo puedes hacerlo de cualquiera de las dos formas que te expliqué arriba.
 
-![bitwarden-password-generator2](/img/screenshots/bitwarden-password-generator2.png)
+![bitwarden-password-generator2](/img/screenshots/bitwarden-password-generator2.webp)
 
 ### Conclusiones
 

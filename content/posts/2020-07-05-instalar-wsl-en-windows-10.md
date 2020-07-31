@@ -20,12 +20,12 @@ En esta guía voy a listar los pasos para instalar el WSL, instalar ZSH y como c
 
 Abre el menú de configuración de Windows 10, bien sea haciendo click en inicio y seleccionando la opción que dice “configuración” o también puedes presionar la combinación de teclas **Windows + I**.
 
-![Captura de pantalla](/img/screenshots/windows-settings.png)
+![Captura de pantalla](/img/screenshots/windows-settings.webp)
 
 Una vez dentro selecciona la opción que dice “Actualización y seguridad”
 
-![Menú de configuración de Windows](/img/screenshots/windows-settings2.png)
+![Menú de configuración de Windows](/img/screenshots/windows-settings2.webp)
 
 Luego tienes que seleccionar la opción para desarrolladores y entre las opciones que se muestran debes seleccionar la que dice “activar modo desarrollador”. Te saldrá una advertencia a la cual tendrás que darle si para continuar y luego deberás reiniciar para que se apliquen los cambios.
 
-![Activar modo desarrollador en Windows](/img/screenshots/windows-settings3.png)
+![Activar modo desarrollador en Windows](/img/screenshots/windows-settings3.webp)
