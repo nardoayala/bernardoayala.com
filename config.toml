@@ -7,7 +7,6 @@ paginate = 100
 copyright = "Diseño inspirado en el [blog](https://www.taniarascia.com/) de [Tania Rascia](https://twitter.com/taniarascia)"
 
 googleAnalytics = "UA-171249207-1"
-disqusShortname = "bernardoayala"
 
 [permalinks]
   posts = "/:slug/"
@@ -48,9 +47,6 @@ disqusShortname = "bernardoayala"
 
   # Small about me
   about = "Soy un desarrollador Frontend. Este es un espacio donde escribo guías sobre cosas que he ido aprendiendo, así como también opiniones y artículos de humor."
-
-	# Content types to disable Disqus on.
-	disableDisqusTypes = ["page"]
 
 	# Custom CSS applied to default styles.
 	customCSS = "css/custom.css"
