@@ -43,7 +43,7 @@ googleAnalytics = "UA-171249207-1"
   profilePicture = "/img/profile-picture.webp"
 
   # Greeting message
-  greetingMessage = "¡Hola! Soy Bernardo Ayala \n Frontend developer"
+  greetingMessage = "¡Hola! Soy Bernardo Ayala \n Frontend Developer"
 
   # Small about me
   about = "En este blog escribo sobre las cosas que he ido aprendiedno respecto al mundo del desarrollo web, así como de otros temas variados. Puedes encontrar guías, explicaciones, opiniones y artículos de humor."

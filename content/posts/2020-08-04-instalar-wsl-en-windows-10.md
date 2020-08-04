@@ -1,10 +1,10 @@
 ---
 title: "Cómo utilizar la terminal de Linux en Windows 10"
-slug: "instalar-wsl"
+slug: "instalar-linux-windows-10"
 author: "Bernardo Ayala"
 type: "posts"
-date: 2020-07-15
-draft: true
+date: 2020-08-04
+draft: false
 categories: "Programación"
 tags: ["linux", "wsl", "terminal"]
 icon: "/img/icons/linux.png"
@@ -122,6 +122,11 @@ Posterior a esto deberás ejecutar PowerShell como administrador. Para hacerlo p
 
 ![Activar WSL](/img/screenshots/windows-x-menu.webp)
 
+Dentro de PowerShell deberás ejecutar el siguiente comando:
+
 ```PowerShell
 wsl --set-default-version 2
 ```
+Puede ser que al momento de ejecutar el comando salga un mensaje que diga `WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel.`, en ese caso deberás ir al enlace ([https://aka.ms/wsl2kernel](https://aka.ms/wsl2kernel)) y seguir las instrucciones para actualizar el Kernel.
+
+La versión 2 de WSL tiene algunas ventajas como ser notablemente más veloz, pero utilizarla es opcional. Todas las configuraciones que hayas hecho para la versión 1 estarán aplicadas, así que no tendrás que volver a instalar ni configurar desde cero.
