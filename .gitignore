@@ -1,2 +1,5 @@
 # Ignore public files
 public
+
+# Ignore resources_gen
+resources/_gen
