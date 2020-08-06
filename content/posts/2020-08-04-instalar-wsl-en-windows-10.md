@@ -104,6 +104,8 @@ Ya con esto tendrás instalada y configurada la terminal de Linux dentro de Wind
 
 Para poder utilizar la versión 2 de WSL debes tener Windows 10 actualizado hasta la versión 2004 (como mínimo con la build 19041). Para poder verificar esto puedes presionar las teclas <kbd>Win</kbd> + <kbd>r</kbd> y ejecutar el comando `winver`.
 
+![Windows Version](/img/screenshots/windows-version.webp)
+
 De tener instalada una versión inferior deberás actualizar antes de continuar. Para hacer esto puedes descargar el asistente que ofrece Microsoft en su página para actualizar Windows 10: [Windows Update Assistant](https://www.microsoft.com/en-us/software-download/windows10).
 
 Si ya tienes la última verisón instalada el siguiente paso será habilitar la **Plataforma de máquina virtual** dentro de las características de Windows. Para hacerlo los pasos son los mismos que cuando activaste el **Windows Subsystem for Linx**:
