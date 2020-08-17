@@ -6,7 +6,7 @@ type: "posts"
 date: 2019-09-08
 subtitle: ""
 image: ""
-categories: "Humor"
+categories: ["Humor"]
 tags: ["matemáticas","tarea"]
 icon: "/img/icons/calculator.png"
 ---

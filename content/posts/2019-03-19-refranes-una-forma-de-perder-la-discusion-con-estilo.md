@@ -6,7 +6,7 @@ type: "posts"
 date: "2019-03-19"
 description: "Un pequeño análisis sobre lo absurdo que son los refranes"
 tags: ["refranes","discusión"]
-categories: "Humor"
+categories: ["Humor"]
 icon: "/img/icons/humor.png"
 ---
 

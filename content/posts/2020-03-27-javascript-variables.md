@@ -4,7 +4,7 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-03-27
 draft: false
-categories: "Programación"
+categories: ["Programación"]
 tags: [javascript, fundamentos]
 icon: "/img/icons/js.png"
 ---

@@ -7,7 +7,8 @@ date: 2019-05-15
 subtitle: ""
 image: ""
 tags: ["constancia","escritura"]
-categories: "Opiniones"
+categories: ["Opiniones"]
+icon: "/img/icons/stairs.png"
 ---
 No es la primera vez que de repente veo para los lados y pienso, “Esto era más fácil de hacer en mi cabeza”.<!--more-->
 

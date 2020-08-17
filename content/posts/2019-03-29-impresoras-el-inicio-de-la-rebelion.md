@@ -7,7 +7,7 @@ date: 2019-03-29
 subtitle: ""
 image: ""
 tags: ["impresoras","rebelión"]
-categories: "Humor"
+categories: ["Humor"]
 icon: "/img/icons/printer.png"
 ---
 

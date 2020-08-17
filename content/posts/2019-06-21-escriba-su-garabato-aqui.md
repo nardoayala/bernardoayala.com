@@ -6,7 +6,7 @@ type: "posts"
 date: 2019-06-21
 subtitle: ""
 image: ""
-categories: "Humor"
+categories: ["Humor"]
 tags: ["fimas","autógrafos"]
 icon: "/img/icons/signature.png"
 ---

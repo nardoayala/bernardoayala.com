@@ -5,7 +5,7 @@ type: "posts"
 date: 2019-12-11
 subtitle: ""
 image: ""
-categories: "Humor"
+categories: ["Humor"]
 tags: ["morrocoy","mascotas"]
 icon: "/img/icons/turtle.png"
 ---

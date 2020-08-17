@@ -1,11 +1,11 @@
 ---
 title: "Cómo utilizar la terminal de Linux en Windows 10"
-slug: "instalar-linux-windows-10"
+slug: "instalar-wsl"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-08-04
 draft: false
-categories: "Programación"
+categories: ["Programación"]
 tags: ["linux", "wsl", "terminal"]
 icon: "/img/icons/linux.png"
 ---

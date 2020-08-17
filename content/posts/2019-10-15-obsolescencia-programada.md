@@ -5,7 +5,7 @@ type: "posts"
 date: 2019-10-15
 subtitle: ""
 image: ""
-categories: "Tecnología"
+categories: ["Tecnología"]
 tags: ["mitos","obsolescencia"]
 icon: "/img/icons/tech.png"
 ---

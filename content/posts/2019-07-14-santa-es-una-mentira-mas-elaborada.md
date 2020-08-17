@@ -6,7 +6,7 @@ type: "posts"
 date: 2019-07-14
 subtitle: ""
 image: ""
-categories: "Humor"
+categories: ["Humor"]
 tags: ["niño Jesús","santa","san Nicolás"]
 icon: "/img/icons/santa.png"
 ---

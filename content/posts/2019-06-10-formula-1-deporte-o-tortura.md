@@ -7,7 +7,7 @@ date: 2019-06-10
 subtitle: ""
 image: ""
 tags: ["fórmula 1","tortura","deporte"]
-categories: "Humor"
+categories: ["Humor"]
 icon: "/img/icons/f1.png"
 ---
 En los últimos años se han invertido millones de dólares en uno de los métodos de tortura más sofisticados ideados por la humanidad y nadie parece querer hablar de eso, así que le daré voz a todos los que hemos sido víctimas de la Fórmula 1.<!--more-->

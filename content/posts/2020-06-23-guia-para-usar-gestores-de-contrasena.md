@@ -5,7 +5,7 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-06-23
 draft: false
-categories: "Tecnología"
+categories: ["Tecnología"]
 tags: ["contraseñas", "gestores de contraseña", "bitwarden", "seguridad"]
 icon: "/img/icons/password.png"
 ---
