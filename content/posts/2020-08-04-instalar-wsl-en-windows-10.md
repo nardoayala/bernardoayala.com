@@ -12,9 +12,9 @@ icon: "/img/icons/linux.png"
 
 Uno de los puntos débiles de Windows respecto a Linux o Mac es que no cuenta con una buena línea de comandos (aunque han hecho muy buenos esfuerzos con PoweShell).
 
-Sin embargo, existe una forma de poder utilizar la terminal de Linux dentro de Windows. Esto podemos lograrlo a través del <abbr title="Windows Subsystem for Linux">WSL</abbr>, que básicamente nos permite instalar una distribución de Linux dentro de Windows.
+Sin embargo, existe una forma de poder utilizar la terminal de Linux dentro de Windows. Esto podemos lograrlo a través del Windows Subsystem for Linux (WSL), que básicamente nos permite instalar una distribución de Linux dentro de Windows.
 
-En esta guía voy a listar los pasos para instalar el WSL y configurarlo; explicaré como instalar ZSH y voy a mostrar como instalar la nueva Windows Terminal para utilizarla como nuestra nueva línea de comandos.
+En esta guía voy a listar los pasos para instalar Ubuntu dentro de Windows 10 a través del WSL; explicaré como instalar ZSH y Oh-My-Zsh además de mostrar como instalar y configurar la nueva Windows Terminal para utilizarla como nuestra nueva línea de comandos.
 
 ### Habilitar el modo desarrollador
 

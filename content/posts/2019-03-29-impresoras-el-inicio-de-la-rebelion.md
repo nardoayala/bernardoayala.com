@@ -23,6 +23,6 @@ Una de las cosas más curiosas de este comportamiento es que la máquina sabe id
 
 Si bien no entendemos este comportamiento tan arbitrario, la siguiente caricatura muestra una regla fundamental, mientras más urgente sea el documento a imprimir y menor sea el plazo para imprimirlo, la necedad de la impresora parece ir en aumento.
 
-<div class="tapas-iframe-wrap" data-width="800"><div class="tapas-full-btn" data-close-btn-url="https://tapas.io/resources/images/btn-close-on-embed.png" data-id="457149" data-url="https://tapas.io/embed/v2/457149?color=white&overlay=true" data-width="800"></div><iframe class="tapas-iframe-457149 tapas-iframe" height="500" data-is-cropped="" scrolling="no" src="https://tapas.io/embed/v2/457149?color=white&cropped=" frameborder="0"></iframe></div><script async src="https://tapas.io/resources/js/embedding.min.js"></script>
+![How to Print comic](/img/comics/how-to-print.webp)
 
 Si hay algo valioso que nos han enseñado estas pequeñas máquinitas testarudas es que la intención de las máquinas no es acabar con la raza humana ni esclavizarla. Su principal intención es jodernos la paciencia.
