@@ -37,7 +37,7 @@ googleAnalytics = "UA-171249207-1"
 	subtitle = "Frontend developer"
 
 	# Optional 80x80 avatar image.
-	avatar = "/img/glasses.svg"
+	avatar = "/img/icons/defragment.png"
 
   # Profile picture
   profilePicture = "/img/profile-picture.webp"
