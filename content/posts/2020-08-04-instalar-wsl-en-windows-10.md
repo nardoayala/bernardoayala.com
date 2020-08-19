@@ -6,8 +6,8 @@ type: "posts"
 date: 2020-08-04
 draft: false
 categories: ["Programación"]
-tags: ["linux", "wsl", "terminal"]
-icon: "/img/icons/linux.png"
+tags: ["linux", "wsl", "terminal", "ubuntu"]
+icon: "/img/icons/terminal.png"
 ---
 
 Uno de los puntos débiles de Windows respecto a Linux o Mac es que no cuenta con una buena línea de comandos (aunque han hecho muy buenos esfuerzos con PoweShell).

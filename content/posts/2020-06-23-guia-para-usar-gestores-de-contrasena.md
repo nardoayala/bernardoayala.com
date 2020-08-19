@@ -5,9 +5,9 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-06-23
 draft: false
-categories: ["Tecnología"]
-tags: ["contraseñas", "gestores de contraseña", "bitwarden", "seguridad"]
-icon: "/img/icons/password.png"
+categories: ["Seguridad-digital"]
+tags: ["contraseñas", "gestores de contraseña", "bitwarden"]
+icon: "/img/icons/vault.png"
 ---
 
 Hoy en día con tatos portales en los que necesitamos estar registrados se vuelve imposible crear contraseñas efectivas para cada uno de ellos y que al mismo tiempo las recordemos. Es por esta razón que usualmente recurrimos a malas prácticas a la hora de elegir nuestras contraseñas, ya sea porque son muy sencillas o porque utilizamos la misma en un sin números de sitios distintos.

@@ -6,8 +6,8 @@ type: "posts"
 date: 2019-04-13
 subtitle: ""
 image: ""
+categories: ["Seguridad-digital"]
 tags: ["voto electrónico","democracia"]
-categories: ["Tecnología"]
 icon: "/img/icons/vote.png"
 ---
 

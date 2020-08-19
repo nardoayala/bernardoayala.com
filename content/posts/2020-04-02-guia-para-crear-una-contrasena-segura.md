@@ -5,8 +5,8 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-04-02
 draft: false
-categories: ["Tecnología"]
-tags: ["contraseñas", "seguridad", "contraseña segura"]
+categories: ["Seguridad-digital"]
+tags: ["contraseñas", "contraseña segura"]
 icon: "/img/icons/password.png"
 ---
 

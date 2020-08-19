@@ -6,7 +6,7 @@ type: "posts"
 date: 2020-08-19
 draft: false
 categories: ["Programación"]
-tags: ["node","npm","ubuntu"]
+tags: ["node","npm","ubuntu", "linux"]
 icon: "/img/icons/nodejs.png"
 ---
 Cuando tratas de instalar la última versión de node en Ubuntu utilizando el apt-package manager te consigues con que la versión que se instala es la 10.x.x. Esa es la última versión disponible en los repositorios de Ubuntu, pero no es la última versión de Node.
