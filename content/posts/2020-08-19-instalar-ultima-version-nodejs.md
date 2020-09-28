@@ -18,7 +18,7 @@ En este tutorial mostraré cómo podemos instalar la última versión disponible
 Para lograr esto tienes que ejecutar el siguiente comando en la consola:
 
 ```bash
-curl -sL [https://deb.nodesource.com/setup_12.x](https://deb.nodesource.com/setup_12.x) | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 ```
 
 Lo único que tendrías que hacer para instalar la versión 14 es cambiar `12.x` por `14.x`
@@ -52,7 +52,7 @@ Este método tiene la ventaja de que puedes tener varias versiones de node insta
 Lo primero que tienes que hacer es instalar NVM, para eso utiliza el siguiente comando:
 
 ```bash
-curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh) | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 ```
 
 Para chequear que NVM se instaló correctamente ejecuta el comando `nvm --version`. Si recibes un número de versión como respuesta quiere decir que la instalación fue exitosa.
