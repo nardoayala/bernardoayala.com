@@ -55,7 +55,12 @@ Lo primero que tienes que hacer es instalar NVM, para eso utiliza el siguiente c
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
 ```
 
-Para chequear que NVM se instaló correctamente ejecuta el comando `nvm --version`. Si recibes un número de versión como respuesta quiere decir que la instalación fue exitosa.
+Para chequear que NVM se instaló correctamente ejecuta el comando `nvm --version`y deberías ver la versión instalada. Si esto falla, es posible que no se haya agregado nvm al perfil de tu terminal de forma automática. Puedes agregarlo manualmente con el siguiente comando:
+
+```bash
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+```
 
 Si todo está correcto, reinicia tu terminal.
 
