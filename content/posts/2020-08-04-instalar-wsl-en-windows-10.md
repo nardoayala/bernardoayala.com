@@ -102,7 +102,11 @@ Ya con esto tendrás instalada y configurada la terminal de Linux dentro de Wind
 
 ### Bonus: Actualizar a WSL 2
 
-Para poder utilizar la versión 2 de WSL debes tener Windows 10 actualizado hasta la versión 2004 (como mínimo con la build 19041). Para poder verificar esto puedes presionar las teclas <kbd>Win</kbd> + <kbd>r</kbd> y ejecutar el comando `winver`.
+**Aclaratoria importante**: Para aprovechar al máximo las mejoras de la versión 2 de WSL, deberás utilizar el sistema de archivos de linux instalado en tu sistema. Si estás desarrollando algún proyecto en alguna carpeta de Widows, como por ejemplo `Documents`, te vas a conseguir con problemas como que los watchers no funcionarán y no notarás tampoco mejoras en la velocidad.
+
+Tomado esto en cuenta, si aún deseas actualizar a la versión 2, debes seguir los siguientes pasos:
+
+Lo primero es que debes tener Windows 10 actualizado hasta la versión 2004 (como mínimo con la build 19041). Para poder verificar esto puedes presionar las teclas <kbd>Win</kbd> + <kbd>r</kbd> y ejecutar el comando `winver`.
 
 ![Windows Version](/img/screenshots/windows-version.webp)
 
@@ -130,5 +134,25 @@ Dentro de PowerShell deberás ejecutar el siguiente comando:
 wsl --set-default-version 2
 ```
 Puede ser que al momento de ejecutar el comando salga un mensaje que diga `WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel.`, en ese caso deberás ir al enlace ([https://aka.ms/wsl2kernel](https://aka.ms/wsl2kernel)) y seguir las instrucciones para actualizar el Kernel.
+
+Este cambio puede tardar varios minutos en aplicarse. Puedes verificar que ya estás utilizando la versión 2 de WSL ejecutando el siguiente comando en PowerShell:
+
+```PowerShell
+wsl wsl -l -v
+```
+
+Te aparecerá un output parecido a la siguiente tabla:
+
+| NAME   | STATE   | VERSION |
+|--------|---------|---------|
+| Ubuntu | Stopped | 2       |
+
+Si en la tabla te sigue apareciendo un 1 debajo de la columna `VERSION`, entonces debes fijarte en el nombre de la distribución que aparece justo debajo de la columna `NAME`, en mi caso aparece Ubuntu. Tomado en cuenta ese nombre, deberás ejecutar el siguiente comando:
+
+```PowerShell
+wsl --set-version Ubuntu 2
+```
+
+Ya con esto, trancucrridos unos cuantos minutos, deberás tener configurada la versión de 2 de WSL para la distribución que estés usando.
 
 La versión 2 de WSL tiene algunas ventajas como ser notablemente más veloz, pero utilizarla es opcional. Todas las configuraciones que hayas hecho para la versión 1 estarán aplicadas, así que no tendrás que volver a instalar ni configurar desde cero.
