@@ -27,13 +27,30 @@ En este tutorial voy a explicar como hacer la segunda opción.
 
 Las llaves ssh en Windows están usualmente guardadas en una carpeta oculta llamada .ssh dentro de la ruta `c:\Users\<username>\`. Nuestro objetivo es copiar esa carpeta completa de Windows hacia nuestro subsistema de Linux.
 
-Para hacer esto debes abrir tu terminal (la que configuraste para correr Linux) y ejecutar el siguiente comando:
+Para hacer esto debes abrir tu terminal (la que configuraste para correr Linux) y verificar si la carpeta `.ssh` existe en tu root. Para chequearlo debes usar el siguiente comando:
 
 ```bash
-cp -r /mnt/c/Users/<username>/.ssh/ ~/.ssh
+ls -a ~
 ```
 
-Recuerda que debes sustituir "username" por tu nombre de usuario en Windows. Ya hecho esto tendrás listas tus credenciales para usarlas en tu terminal configurado para trabajar con Linux. Pero aún queda un paso más y es arreglar los permisos en el archivo de las llaves.
+Si no ves la carpeta .ssh por ninguna parte entonces puedes utilizar el siguiente comando:
+
+```bash
+cp -r /mnt/c/Users/<username>/.ssh ~/.ssh
+```
+
+Recuerda que debes sustituir "username" por tu nombre de usuario en Windows.
+
+En caso de que la carpeta exista, tienes que verificar su contenido, si dentro ves algún arhcivo llamado `id_rsa` o `id_rsa.pub`, significa que ya tienes un par de llaves generadas para su WSL, por lo que tendrías es que configurar tu conexión segura a GitHub usando esas llaves que ya tienes disponible.
+
+**Nota imortante**: Si ya tienes un par de llaves creadas no copies las de Windows. Esto las sobreescribirá y a menos que estés seguro para qué generaste esas llaves esto puede ser problemático.
+
+En caso de que la carpeta esté vacía, puedes ejecutar el siguiente comando para copiar tus llaves de Windows a tu subsistema Linux:
+
+```bash
+cp -r /mnt/c/Users/<username>/.ssh/. ~/.ssh
+```
+Ya completados estos pasos tendrás listas tus credenciales para usarlas en tu terminal configurado para trabajar con Linux. Pero aún queda un paso más y es arreglar los permisos en el archivo de las llaves.
 
 ![Screenshot de error en termianl](/img/screenshots/ssh-sharing-2.webp)
 
