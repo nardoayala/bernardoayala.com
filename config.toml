@@ -1,12 +1,11 @@
 baseURL = "https://bernardoayala.com/"
-languageCode = "en-us"
+DefaultContentLanguage = "es"
+languageCode = "es-es"
 title = "Bernardo Ayala"
 theme = "hugo-vitae"
 paginate = 100
 
 copyright = "Diseño inspirado en el [blog](https://www.taniarascia.com/) de [Tania Rascia](https://twitter.com/taniarascia)"
-
-googleAnalytics = "UA-171249207-1"
 
 [permalinks]
   posts = "/:slug/"
