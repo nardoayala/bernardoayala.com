@@ -22,7 +22,7 @@ En este tutorial nos concentraremos en estos tres comandos:
 
 - `npm config set init-author-name "Nombre del autor"`
 - `npm config set init-author-email "correodelautor@correo.com"`
-- `npm config set init-licsense "Tipo de licencia"`
+- `npm config set init-license "Tipo de licencia"`
 
 Usa vez tengas modificados estos valores, ya estarán por defecto cuando utilices el comando npm init
 
