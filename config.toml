@@ -5,13 +5,11 @@ title = "Bernardo Ayala"
 theme = "hugo-vitae"
 paginate = 100
 
-copyright = "Diseño inspirado en el [blog](https://www.taniarascia.com/) de [Tania Rascia](https://twitter.com/taniarascia)"
+copyright = "Diseño inspirado en el blog de [Tania Rascia](https://www.taniarascia.com)"
 
 [permalinks]
   posts = "/:slug/"
   pages = "/:title/"
-  categories = "/:title/"
-  tags = "/:title/"
 
 [markup]
   [markup.highlight]
@@ -81,7 +79,7 @@ weight = 2
   name = "Netlify"
   title = "Hosted by Netlify"
   icon = "/img/icons/netlify.png"
-  url = "/img/icons/netlify.png"
+  url = "https://www.netlify.com/"
 
 [[params.social]]
 name = "Github"

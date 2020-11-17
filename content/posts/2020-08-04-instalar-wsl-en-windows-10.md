@@ -153,6 +153,6 @@ Si en la tabla te sigue apareciendo un 1 debajo de la columna `VERSION`, entonce
 wsl --set-version Ubuntu 2
 ```
 
-Ya con esto, trancucrridos unos cuantos minutos, deberás tener configurada la versión de 2 de WSL para la distribución que estés usando.
+Ya con esto, transcurridos unos cuantos minutos, deberás tener configurada la versión de 2 de WSL para la distribución que estés usando.
 
 La versión 2 de WSL tiene algunas ventajas como ser notablemente más veloz, pero utilizarla es opcional. Todas las configuraciones que hayas hecho para la versión 1 estarán aplicadas, así que no tendrás que volver a instalar ni configurar desde cero.
