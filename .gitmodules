@@ -1,4 +1,3 @@
-[submodule "themes/hugo-vitae"]
-	path = themes/hugo-vitae
-	url = https://github.com/nardoyala/hugo-vitae.git
-	branch = custom
+[submodule "themes/hugo-floppy"]
+	path = themes/hugo-floppy
+	url = git@github.com:nardoyala/hugo-floppy.git

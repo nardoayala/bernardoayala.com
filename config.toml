@@ -2,7 +2,7 @@ baseURL = "https://bernardoayala.com/"
 DefaultContentLanguage = "es"
 languageCode = "es-es"
 title = "Bernardo Ayala"
-theme = "hugo-vitae"
+theme = "hugo-floppy"
 paginate = 100
 
 copyright = "Diseño inspirado en el blog de [Tania Rascia](https://www.taniarascia.com)"
