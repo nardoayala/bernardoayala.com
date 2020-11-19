@@ -10,17 +10,24 @@ tags: ["contraseñas", "gestores de contraseña", "bitwarden"]
 icon: "/img/icons/vault.png"
 ---
 
-Hoy en día con tatos portales en los que necesitamos estar registrados se vuelve imposible crear contraseñas efectivas para cada uno de ellos y que al mismo tiempo las recordemos. Es por esta razón que usualmente recurrimos a malas prácticas a la hora de elegir nuestras contraseñas, ya sea porque son muy sencillas o porque utilizamos la misma en un sin números de sitios distintos.
+Anteriormente publiqué una [guía para crear contraseñas más seguras](/crear-una-contrasena-segura) en donde compartí algunas buenas y malas prácticas al momento al momento de crear una contraseña.
 
-Para resolver este problema existen los gestores de contraseña que se encargarán de recordar todas tus credenciales por ti a cambio y estarán protegidas con una contraseña maestra que será la única que tendrás que recordar.
+Entre los puntos que mencioné existen dos a destacar:
 
-En este post voy a explicar como utilizar y configurar Bitwarden, que es el gestor de contraseñas que estoy utilizando actualmente. Sin embargo el proceso no varía mucho respecto a los otros gestores que existen, así que si prefieres probar alguno de estos esta guía igualmente te dirá lo que necesitas saber.
+- Las buenas contraseñas son largas y difíciles de recordar.
+- Jamás debes usar la misma contraseña dos veces.
+
+Como tenemos cuentas en tantos portales distintos, y nos resulta imposible recordar las claves de todos, los gestores de contraseñas nos ofrecen recordarlas por nosotros a cambio de que recordemos una sola contraseña maestra que desbloqueará a todas las demás.
+
+En esta guía te explicaré cómo instalar y configurar Bitwarden, que es el gestor que estoy utilizando actualmente, pero los pasos no son muy distintos en los otros programas que existen, así que si quieres probar otro lo que aprendas aquí te servirá.
 
 Lo primero es ir a la página de [Bitwarden](https://bitwarden.com/) y antes de instalar nada lo primero que debes hacer es crear una cuenta seleccionando donde dice "Create account".
 
 ![bitwarden-homepage](/img/screenshots/bitwarden-homepage.webp)
 
-Eso te llevará a un formulario que tendrás que rellenar. Es muy importante que la contraseña que utilices en el campo "Master Password" sea bastante fuerte y que a la vez puedas recordarla (será la única contraseña que tendrás que recordar). Te dejo el link de mi [guía para crear una contraseña segura](/crear-una-contrasena-segura/) que puede serte útil en este paso.
+Eso te llevará a un formulario que tendrás que rellenar. Es muy importante que la contraseña que utilices en el campo "Master Password" sea bastante fuerte pero que a la vez puedas recordarla con facilidad.
+
+Un consejo que puedo darte es que escribas alguna oración, por ejemplo: "La empanada de queso es sagrada".
 
 ![bitwarden-login](/img/screenshots/bitwarden-singup.webp)
 
@@ -86,4 +93,4 @@ Algunos otros de los más conocidos son:
 + [1Password](https://1password.com/es/)
 + [KeePass](https://keepass.info/)
 
-El primer paso para proteger tu vida digital es utilizar una buena contraseña y como estas son tan difíciles de recordar un buen gestor será un buen aliado.
+El primer paso para proteger tu vida digital es utilizar una buena contraseña y como estas son tan difíciles de recordar, un buen gestor de contraseñas será tu mejor amigo.
