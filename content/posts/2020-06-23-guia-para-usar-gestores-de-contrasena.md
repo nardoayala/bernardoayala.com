@@ -5,7 +5,7 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-06-23
 draft: false
-categories: ["Seguridad-digital"]
+categories: ["Seguridad-digital","Tutoriales"]
 tags: ["contraseñas", "gestores de contraseña", "bitwarden"]
 icon: "/img/icons/vault.png"
 ---

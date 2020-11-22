@@ -4,7 +4,7 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-03-27
 draft: false
-categories: ["Programación"]
+categories: ["Tutoriales"]
 tags: [javascript, fundamentos]
 icon: "/img/icons/js.png"
 ---
@@ -20,9 +20,9 @@ Igualmente explicaré las diferencias entre las tres palabras reservadas que se 
 
 ## ¿Qué es una variable?
 
-Una variable es una especie de "contenedor" al que le ponemos un nombre y que nos sirve para guardar algún valor. Este valor puede ser cualquier tipo de dato que soporte el lenguaje de programación (números, strings, booleans, arrays, objetos).
+Una variable es una especie de "contenedor" al que le ponemos un nombre y que nos sirve para guardar algún valor. Este valor puede ser cualquier tipo de dato que soporte el lenguaje de Tutoriales (números, strings, booleans, arrays, objetos).
 
-Dependiendo del lenguaje de programación la forma de declarar una variable varía, en el caso de JavaScript tenemos que primero usar una de las tres palabras reservadas seguido del nombre de la variable y luego utilizamos el signo "igual" para asignarle un valor.
+Dependiendo del lenguaje de Tutoriales la forma de declarar una variable varía, en el caso de JavaScript tenemos que primero usar una de las tres palabras reservadas seguido del nombre de la variable y luego utilizamos el signo "igual" para asignarle un valor.
 
 Como mencioné anteriormente puedo asignarle cualquier valor que soporte JavaScript.
 

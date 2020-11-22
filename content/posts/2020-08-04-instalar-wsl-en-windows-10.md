@@ -5,7 +5,7 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-08-04
 draft: false
-categories: ["Programación"]
+categories: ["Tutoriales"]
 tags: ["linux", "wsl", "terminal", "ubuntu"]
 icon: "/img/icons/terminal.png"
 ---

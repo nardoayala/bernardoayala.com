@@ -5,7 +5,7 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-08-19
 draft: false
-categories: ["Programación"]
+categories: ["Tutoriales"]
 tags: ["node","npm","ubuntu", "linux"]
 icon: "/img/icons/nodejs.png"
 ---

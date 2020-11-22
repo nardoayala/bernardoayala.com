@@ -5,7 +5,7 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-07-15
 draft: false
-categories: ["Programación"]
+categories: ["Tutoriales"]
 tags: ["npm","configuraciones"]
 icon: "/img/icons/npm.png"
 ---
