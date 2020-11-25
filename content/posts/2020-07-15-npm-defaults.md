@@ -1,5 +1,5 @@
 ---
-title: "Configurar los defaults de NPM al inicializar un proyecto"
+title: "Cómo configurar los defaults de NPM"
 slug: "npm-defaults"
 author: "Bernardo Ayala"
 type: "posts"

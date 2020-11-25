@@ -40,10 +40,10 @@ copyright = "Diseño inspirado en el blog de [Tania Rascia](https://www.taniaras
   profilePicture = "/img/profile-picture.webp"
 
   # Greeting message
-  greetingMessage = "¡Hola! Soy Bernardo Ayala \n Frontend Developer"
+  greetingMessage = "¡Hola! Soy Bernardo Ayala"
 
   # Small about me
-  about = "En este blog escribo sobre las cosas que he ido aprendiedno respecto al mundo del desarrollo web, así como de otros temas variados. Puedes encontrar guías, explicaciones, opiniones y artículos de humor."
+  about = "Soy un Frontend developer viviendo en una distopía tropical. Este es el espacio donde organizo mis ideas y las comparto con el mundo. Puedes encontrar guías, explicaciones, opiniones y artículos de humor."
 
 	# Custom CSS applied to default styles.
 	customCSS = "css/custom.css"
