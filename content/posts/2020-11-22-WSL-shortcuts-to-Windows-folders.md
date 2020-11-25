@@ -6,7 +6,7 @@ type: "posts"
 date: 2020-11-22
 draft: false
 categories: ["Tutoriales"]
-tags: ["WSL","Terminal","Bash","symlinks"]
+tags: ["wsl","terminal","linux"]
 icon: "/img/icons/symlink.png"
 ---
 
