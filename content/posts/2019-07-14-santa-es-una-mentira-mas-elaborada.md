@@ -7,7 +7,7 @@ date: 2019-07-14
 subtitle: ""
 image: ""
 categories: ["Humor"]
-tags: ["niño Jesús","santa","san Nicolás"]
+tags: ["navidad","santa","mentiras"]
 icon: "/img/icons/santa.png"
 ---
 Siempre me ha dado curiosidad la diferencia en la cantidad de detalles que le dan a los niños gringos al momento de echarles un cuento con la poca información que le proporcionamos a los niños venezolanos. <!--more-->
