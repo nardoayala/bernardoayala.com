@@ -6,7 +6,7 @@ type: "posts"
 date: 2020-06-23
 draft: false
 categories: ["Seguridad-digital","Tutoriales"]
-tags: ["contraseñas", "gestores de contraseña", "bitwarden"]
+tags: ["contraseñas", "bitwarden", "seguridad digital"]
 icon: "/img/icons/vault.png"
 ---
 

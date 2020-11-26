@@ -7,7 +7,7 @@ date: 2019-04-13
 subtitle: ""
 image: ""
 categories: ["Seguridad-digital"]
-tags: ["voto electrónico","democracia"]
+tags: ["voto","democracia", "seguridad digital"]
 icon: "/img/icons/vote.png"
 ---
 

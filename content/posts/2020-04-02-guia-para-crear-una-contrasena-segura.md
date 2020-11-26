@@ -6,7 +6,7 @@ type: "posts"
 date: 2020-04-02
 draft: false
 categories: ["Seguridad-digital"]
-tags: ["contraseñas", "contraseña segura"]
+tags: ["contraseñas", "seguridad digital"]
 icon: "/img/icons/password.png"
 ---
 
