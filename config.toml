@@ -31,7 +31,6 @@ copyright = "Diseño inspirado en el blog de [Tania Rascia](https://www.taniaras
   category = "categories"
 
 [params]
-	subtitle = "Frontend developer"
 
 	# Optional 80x80 avatar image.
 	avatar = "/img/icons/defragment.png"
