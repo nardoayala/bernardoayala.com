@@ -1,13 +1,13 @@
 ---
-title: "Copiar llaves ssh de Windows a WSL"
+title: "WSL: copiar llaves ssh de Windows"
 slug: "copiar-ssh-widnows-wsl"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-10-07
 draft: false
 categories: ["Tutoriales"]
-tags: ["terminal","configuraciones","wsl","ssh"]
-icon: "/img/icons/ssh.png"
+tags: ["bash","ssh", "wsl"]
+icon: "/img/icons/bash.png"
 ---
 
 Una vez tengas configurado tu distribución de [Linux dentro de Windows 10](/instalar-wsl/) a través de WSL, te vas a conseguir con el problema de que al momento de querer conectarte a GitHub para hacer push o pull de alguno de tus repositorios, no vas a tener los permisos para hacerlo.

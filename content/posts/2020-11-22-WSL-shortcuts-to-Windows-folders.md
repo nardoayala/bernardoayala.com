@@ -1,13 +1,14 @@
 ---
-title: "Crear shortcuts en WSL a las carpetas de Windows"
-slug: "wsl-shortcuts-a-windows"
+title: "WSL: crear symlinks a las carpetas de Windows"
+slug: "wsl-symlinks-a-windows"
 author: "Bernardo Ayala"
+description: "Turtoial para crear symlinks en WSL"
 type: "posts"
 date: 2020-11-22
 draft: false
 categories: ["Tutoriales"]
-tags: ["wsl","terminal","linux"]
-icon: "/img/icons/symlink.png"
+tags: ["bash", "symlinks", "wsl"]
+icon: "/img/icons/bash.png"
 ---
 
 Dentro de nuestro Windows Subsystem for Linux (WSL) podemos acceder a los discos de windows a través de `/mnt`. Por lo que si tenemos que acceder a una carpeta dentro de nuestros documentos o descargas, podemos hacerlo utilizando un comando como este:

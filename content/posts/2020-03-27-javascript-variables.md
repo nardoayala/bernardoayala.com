@@ -1,5 +1,6 @@
 ---
-title: "Variables en JavaScript"
+title: "JavaScript: entendiendo las variables"
+slug: "javascript-variables"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-03-27

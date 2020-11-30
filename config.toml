@@ -32,6 +32,12 @@ copyright = "Diseño inspirado en el blog de [Tania Rascia](https://www.taniaras
 
 [params]
 
+  # Site description
+  description = "Frontend developer and open source contributor. This is my personal blog."
+  
+  # Site featured image
+  images = "/img/profile-picture.webp"
+
 	# Optional 80x80 avatar image.
 	avatar = "/img/icons/defragment.png"
 
@@ -46,8 +52,6 @@ copyright = "Diseño inspirado en el blog de [Tania Rascia](https://www.taniaras
 
 	# Custom CSS applied to default styles.
 	customCSS = "css/custom.css"
-
-  description = "Bernardo Ayala - Frontend developer"
 
 # Nav.
 

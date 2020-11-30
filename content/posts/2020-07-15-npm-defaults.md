@@ -1,12 +1,12 @@
 ---
-title: "Cómo configurar los defaults de NPM"
+title: "NPM: configurar valores para init -y"
 slug: "npm-defaults"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-07-15
 draft: false
 categories: ["Tutoriales"]
-tags: ["npm","configuraciones"]
+tags: ["npm"]
 icon: "/img/icons/npm.png"
 ---
 

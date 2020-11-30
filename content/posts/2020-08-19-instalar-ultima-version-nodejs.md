@@ -1,13 +1,13 @@
 ---
-title: "Cómo instalar la última versión de Node.js en Ubuntu"
-slug: "instalar-ultima-version-nodejs"
+title: "WSL: instalar última versión de Node"
+slug: "instalar-ultima-version-node"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-08-19
 draft: false
 categories: ["Tutoriales"]
-tags: ["node","npm","ubuntu", "linux"]
-icon: "/img/icons/nodejs.png"
+tags: ["bash","node","wsl"]
+icon: "/img/icons/bash.png"
 ---
 Cuando tratas de instalar la última versión de node en Ubuntu utilizando el apt-package manager te consigues con que la versión que se instala es la 10.x.x. Esa es la última versión disponible en los repositorios de Ubuntu, pero no es la última versión de Node.
 

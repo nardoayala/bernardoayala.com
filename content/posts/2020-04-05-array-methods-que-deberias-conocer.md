@@ -1,6 +1,6 @@
 ---
-title: "Array methods que deberías conocer"
-slug: "array-methods"
+title: "JavaScript: array methods que deberías conocer"
+slug: "javascript-array-methods"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-04-08
