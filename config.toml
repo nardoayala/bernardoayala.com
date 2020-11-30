@@ -81,7 +81,7 @@ weight = 2
   url = "https://www.netlify.com/"
 
 [[params.social]]
-name = "Github"
+name = "GitHub"
 icon = "icon-github"
 url = "https://github.com/nardoyala"
 
