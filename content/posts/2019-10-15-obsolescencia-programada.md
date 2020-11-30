@@ -3,11 +3,9 @@ title: "Obsolescencia programada"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2019-10-15
-subtitle: ""
-image: ""
 categories: ["Opiniones"]
 tags: ["mitos","obsolescencia"]
-icon: "/img/icons/tech.png"
+icon: "/img/icons/robot.png"
 ---
 Es un lugar común escuchar que en el pasado las cosas se fabricaban para durar toda la vida, mientras que actualmente la mayoría de las cosas que compramos son desechables. ¿Es planificada esta reducción en la durabilidad? <!--more-->
 
