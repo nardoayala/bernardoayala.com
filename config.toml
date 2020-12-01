@@ -36,7 +36,7 @@ copyright = "Diseño inspirado en el blog de [Tania Rascia](https://www.taniaras
   description = "Frontend developer and open source contributor. This is my personal blog."
   
   # Site featured image
-  images = "/img/profile-picture.webp"
+  images = ["/img/profile-picture.webp"]
 
 	# Optional 80x80 avatar image.
 	avatar = "/img/icons/defragment.png"
