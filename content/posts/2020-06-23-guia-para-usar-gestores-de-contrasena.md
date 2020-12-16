@@ -7,7 +7,7 @@ date: 2020-06-23
 draft: false
 categories: ["Tutoriales"]
 tags: ["contraseñas", "seguridad"]
-icon: "/img/icons/vault.png"
+icon: "/img/icons/password.png"
 ---
 
 Anteriormente publiqué una [guía para crear contraseñas más seguras](/crear-una-contrasena-segura) en donde compartí algunas buenas y malas prácticas al momento al momento de crear una contraseña.
