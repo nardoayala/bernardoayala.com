@@ -2,7 +2,6 @@
 title: "{{ replace .Name "-" " " | title }}"
 slug: ""
 description: ""
-image: ""
 author: ""
 type: "posts"
 date: {{ dateFormat "2006-01-02" .Date }}

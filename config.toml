@@ -3,13 +3,14 @@ DefaultContentLanguage = "es"
 languageCode = "es-es"
 title = "Bernardo Ayala"
 theme = "hugo-floppy"
-paginate = 100
+paginate = 10
 
 copyright = "Diseño inspirado en el blog de [Tania Rascia](https://www.taniarascia.com)"
 
 [permalinks]
   posts = "/:slug/"
   pages = "/:title/"
+  categories= "/:title"
 
 [markup]
   [markup.highlight]

@@ -7,7 +7,7 @@ type: "posts"
 date: 2020-11-22
 draft: false
 categories: ["Tutoriales"]
-tags: ["bash", "symlinks", "wsl"]
+tags: ["bash", "wsl"]
 icon: "/img/icons/bash.png"
 ---
 

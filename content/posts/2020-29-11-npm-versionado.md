@@ -1,8 +1,7 @@
 ---
-title: "NPM: sistema de versionado de paquetes"
+title: "NPM: versionado de los paquetes"
 slug: "npm-versionado"
 description: "Breve explicación de cómo funciona el sistema de versionado en NPM"
-images: ["/img/icons/npm.png"]
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-11-29

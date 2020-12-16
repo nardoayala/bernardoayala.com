@@ -6,7 +6,7 @@ type: "posts"
 date: 2020-08-04
 draft: false
 categories: ["Tutoriales"]
-tags: ["linux", "wsl", "terminal", "ubuntu"]
+tags: ["bash", "wsl"]
 icon: "/img/icons/bash.png"
 ---
 
