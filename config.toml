@@ -21,7 +21,7 @@ copyright = "Diseño inspirado en el blog de [Tania Rascia](https://www.taniaras
     lineNos = false
     lineNumbersInTable = true
     noClasses = true
-    style = "monokai"
+    style = "dracula"
     tabWidth = 4
   [markup.goldmark.renderer]
     unsafe= true
