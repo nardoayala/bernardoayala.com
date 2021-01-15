@@ -58,7 +58,7 @@ Para chequear si existen nuevas versiones de las dependencias instaladas, basta 
 
 Algunas de esas nuevas versiones tienen cambios mayores, así que ejecutar `npm update` no las actualizará. Este comportamiento es debido a que al ser cambios mayores, actualizar puede llegar a romper tu proyecto y `npm` trata de evitarlo.
 
-Para poder todas estas dependencias a su última versión, deberás instalar un paquete llamado `npm-heck-updates` de forma global:
+Para poder todas estas dependencias a su última versión, deberás instalar un paquete llamado `npm-check-updates` de forma global:
 
 ````bash
 npm install -g npm-check-updates
@@ -75,13 +75,7 @@ Esto modificará tu archivo `package.json` para que todas las dependencias esté
 Una vez completado este proceso, basta con ejecutar el siguiente comando para actualizar todas tus dependencias:
 
 ```bash
-npm update
-```
-
-Si no existe la carpeta `node_modules` puedes entonces instalar todas estas últimas versiones con el comando:
-
-```bash
 npm install
 ```
 
-Ya con esto tendrás todas las últimas versiones de tus dependencias. Recuerda hacer este tipo de actualizaciones con cuidado ya que algunos de los cambios mayores puede llegar a romper tu proyecto.
+Recuerda hacer este tipo de actualizaciones con cuidado ya que algunos de los cambios mayores puede llegar a romper tu proyecto.
