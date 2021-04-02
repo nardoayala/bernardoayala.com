@@ -1,13 +1,13 @@
 ---
-title: "WSL: instalar última versión de Node"
+title: "Cómo instalar última versión de Node en Debian/Ubuntu"
 slug: "instalar-ultima-version-node"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-08-19
 draft: false
 categories: ["Tutoriales"]
-tags: ["bash","node","wsl"]
-icon: "/img/icons/bash.png"
+tags: ["linux","node","debian", "ubuntu"]
+icon: "/img/icons/debian.png"
 ---
 Cuando tratas de instalar la última versión de node en Ubuntu utilizando el apt-package manager te consigues con que la versión que se instala es la 10.x.x. Esa es la última versión disponible en los repositorios de Ubuntu, pero no es la última versión de Node.
 
@@ -18,12 +18,10 @@ En este tutorial mostraré cómo podemos instalar la última versión disponible
 Para lograr esto tienes que ejecutar el siguiente comando en la consola:
 
 ```bash
-curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
 ```
 
-Lo único que tendrías que hacer para instalar la versión 14 es cambiar `12.x` por `14.x`
-
-Al utilizar `sudo` la consola te pedirá tu la contraseña del root user.
+Puedes remplazar el `14` por la versión que prefieras instalar. Al momento de escribir este post la `14` es la última versión estable.
 
 ### Instalar nodejs con apt-get package
 

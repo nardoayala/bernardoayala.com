@@ -1,12 +1,12 @@
 ---
-title: "WSL: copiar llaves ssh de Windows"
+title: "Cómo copiar llaves SSH de Windows en WSL"
 slug: "copiar-ssh-widnows-wsl"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2020-10-07
 draft: false
 categories: ["Tutoriales"]
-tags: ["bash", "wsl"]
+tags: ["linux", "windows", "wsl"]
 icon: "/img/icons/bash.png"
 ---
 

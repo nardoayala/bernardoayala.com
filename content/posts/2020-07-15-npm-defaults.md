@@ -1,5 +1,5 @@
 ---
-title: "NPM: configurar valores para init -y"
+title: "Cómo configurar los valores por defecto de npm init"
 slug: "npm-defaults"
 author: "Bernardo Ayala"
 type: "posts"

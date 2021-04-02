@@ -1,5 +1,5 @@
 ---
-title: "NPM: versionado de los paquetes"
+title: "Qué significan los números de versión en NPM"
 slug: "npm-versionado"
 description: "Breve explicación de cómo funciona el sistema de versionado en NPM"
 author: "Bernardo Ayala"

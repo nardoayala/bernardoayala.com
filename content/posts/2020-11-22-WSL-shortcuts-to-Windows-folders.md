@@ -1,5 +1,5 @@
 ---
-title: "WSL: crear symlinks a las carpetas de Windows"
+title: "Cómo crear accesos directos a las carpetas de Windows en WSL"
 slug: "wsl-symlinks-a-windows"
 author: "Bernardo Ayala"
 description: "Turtoial para crear symlinks en WSL"
@@ -7,7 +7,7 @@ type: "posts"
 date: 2020-11-22
 draft: false
 categories: ["Tutoriales"]
-tags: ["bash", "wsl"]
+tags: ["linux", "windows", "wsl"]
 icon: "/img/icons/bash.png"
 ---
 
