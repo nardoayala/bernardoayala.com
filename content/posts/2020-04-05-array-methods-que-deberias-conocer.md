@@ -5,7 +5,7 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-04-08
 draft: false
-categories: ["Tutoriales"]
+categories: ["Programación"]
 tags: [javascript, fundamentos]
 icon: "/img/icons/js.png"
 ---
@@ -32,7 +32,7 @@ Es por esto último la razón por la cual contamos con una serie de métodos con
 Pero además de estos dos que son quizás de los más usados, contamos con un muchos otros más que pueden llegar a ser bastante útiles y que quizás aún no conoces, así que si bien no explicaré para que sirven todos los métodos disponibles si me enfocaré en 8 que creo que todos deberíamos conocer
 
 ### Métodos que deberías conocer:
-  
+
 - **\[ \].filter()**:
 
   Con `filter()` se crea un nuevo array a partir de otro, pero en este caso el nuevo array estará compuesto por todos los elementos del array original que cumplan una condición.

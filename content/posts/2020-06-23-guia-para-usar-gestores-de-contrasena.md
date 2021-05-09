@@ -5,7 +5,7 @@ author: "Bernardo Ayala"
 type: "posts"
 date: 2020-06-23
 draft: false
-categories: ["Tutoriales"]
+categories: ["Tutoriales", "Seguridad digital"]
 tags: ["contraseñas", "seguridad"]
 icon: "/img/icons/password.png"
 ---

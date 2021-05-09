@@ -1,5 +1,5 @@
 ---
-title: "NPM: actualizar todos los paquetes a su última versión"
+title: "Cómo actualizar todos los paquetes NPM a su última versión"
 slug: "npm-actualizar-paquetes"
 description: "¿Cómo instalas todas las dependencias de npm guardadas en el archivo package.json a su última versión disponible?"
 author: "Bernardo Ayala"
