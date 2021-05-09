@@ -5,7 +5,7 @@ description: "Tutorial para crear un blog con Hugo y hacerle deploy en Netlify"
 author: "Bernardo Ayala"
 type: "posts"
 date: 2021-05-09
-draft: true
+draft: false
 categories: ["Tutoriales", "Desarrollo web"]
 tags: ["hugo"]
 icon: "/img/icons/hugo.png"
@@ -146,7 +146,7 @@ Lo siguiente a modificar son los parámetros que personalizan el tema. Como por 
 
 ## Hacer deploy en Netlify
 
-Antes que nada, tu proyecto debe estar subido a GitHub. Así que si no lo has hecho ya, inicia un repositorio en la carpeta raíz de tu proyecto con el comando `git init` haz commit de los cambios y luego haz push a tu repo.
+Antes que nada, tu proyecto debe estar subido a GitHub. Así que si no lo has hecho ya, inicia un repositorio en la carpeta raíz de tu proyecto con el comando `git init`, haz commit de los cambios y luego haz push a tu repo.
 
 Dentro de tu proyecto deberás crear un archivo llamado `netlify.toml` que servirá para establecer la configuración para hacer deploy en Netlify.
 
@@ -190,3 +190,16 @@ El parámetro que en principio deberás prestar especial atención es `HUGO_VERS
 Una vez hecho esto, deberás crear una cuenta en Netlify yendo a la siguiente dirección: [app.netlify.com](https://app.netlify.com/). Creada la cuenta te aparecerá un dashboard con un botón que dice "New site from Git" al cual debes darle click.
 
 ![Netlify dashboard screenshot](/img/screenshots/netlify-add-new-site.webp)
+
+Netlify te guiará por una serie de pasos para configurar el continuous deployment de tu proyecto. Esto lo que significa es que cada vez que hagas push a tu repositorio se actualizarán automáticamente los cambios en tu sitio.
+
+Una vez finalizado esto, te aparecerá un botón que dice "Deploy site"; deberás darle click para finalizar y tener tu proyecto en línea.
+
+![Netlify Deploy](/img/gifs/netlify-deploying-site.gif)
+
+Esto generará una url a través de la cual podrás revisar tu sitio, recuerda que si no piensas usar un nombre de dominio propio debes cambiar el parámetro `baseURL` dentro del archivo `config.toml` por esta url genérica.
+
+Te animo a que compres un nombre de domino y lo configures, no es para nada complicado pero el proceso varía un poco dependiendo del proveedor. Sólo debes configurar los DNS del dominio para que apunten a Netlify.
+
+¡Ya está! En este punto tu proyecto ya está disponible en Internet para que puedas compartir tus ideas con el mundo.
+
