@@ -9,6 +9,7 @@ draft: false
 categories: ["Tutoriales", "Desarrollo web"]
 tags: ["hugo"]
 icon: "/img/icons/hugo.png"
+images: [/img/thumbnails/hugo.jpg]
 ---
 
 [Hugo](https://gohugo.io/) es un generador de páginas estáticas construido con GO, un lenguaje de programación que se caracteriza por su velocidad, la cual hace que el mismo Hugo sea bastante veloz.
