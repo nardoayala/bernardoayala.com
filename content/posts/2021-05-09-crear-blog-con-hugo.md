@@ -20,11 +20,13 @@ La ventaja de que tu sitio web sea estático es que puedes alojarlo prácticamen
 
 ![Hugo Logo](/img/hugo-logo-wide.svg)
 
-Dependiendo de tu sistema operativo hay distintas formas de instalar Hugo, puedes descargar los archivos binarios y copiarlos donde quieras utilizarlo, pero yo prefiero instalarlo a través de gestores de paquetes, así que voy a explicarte cómo hacer eso según tu sistema operativo.
+Quizás la forma más sencilla es descargando los archivos binarios y copiándolos donde quieras utilizarlo, pero yo prefiero instalarlo directo en la terminal través de un gestor de paquetes.
+
+Te explico cómo hacerlo dependiendo de tu sistema operativo:
 
 ### Chocolatey (Windows)
 
-Puedes usar [Chocolatey](https://chocolatey.org/) como tu gestor de paquetes. En el link que te dejé puedes ver las instrucciones para instalarlo en si le das click al botón de **Get Started**.
+Puedes usar [Chocolatey](https://chocolatey.org/) como tu gestor de paquetes. En el link que te dejé puedes ver las instrucciones para instalarlo si le das click al botón que dice "**Get Started**".
 
 Una vez tengas Chocolatey, instalar Hugo es tan sencillo como correr este comando en tu powershell:
 
