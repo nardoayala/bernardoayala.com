@@ -5,8 +5,6 @@ title = "Bernardo Ayala"
 theme = "hugo-floppy"
 paginate = 10
 
-copyright = "Diseño inspirado en el blog de [Tania Rascia](https://www.taniarascia.com)"
-
 [permalinks]
   posts = "/:slug/"
   pages = "/:title/"
