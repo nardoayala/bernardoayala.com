@@ -1,5 +1,5 @@
 ---
-title: "Cómo instalar última versión de Node en Debian/Ubuntu"
+title: "Cómo instalar última versión de Node en Ubuntu"
 slug: "instalar-ultima-version-node"
 author: "Bernardo Ayala"
 type: "posts"
