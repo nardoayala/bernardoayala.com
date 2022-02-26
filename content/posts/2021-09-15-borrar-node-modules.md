@@ -1,6 +1,6 @@
 ---
-title: "Cómo borrar todas las carpetas node_modules"
-slug: "borrar-node-modules"
+title: "Cómo borrar node_modules recursivamente"
+slug: "borrar-node-modules-recursivamente"
 description: "Aprende a borrar automáticamente todas las carpeta node_modules que se han ido acumulando en tus proyectos"
 author: "Bernardo Ayala"
 type: "posts"
