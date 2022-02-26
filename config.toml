@@ -28,6 +28,18 @@ paginate = 10
 	series = "series"
   category = "categories"
 
+# Nav.
+
+[[menu.main]]
+name = "Sobre mi"
+url = "/sobre-mi"
+weight = 1
+
+[[menu.main]]
+name = "Contacto"
+url = "/contacto"
+weight = 2
+
 [params]
 
   # Site description
@@ -48,52 +60,43 @@ paginate = 10
   # Small about me
   about = "Soy un Frontend developer viviendo en una distopía tropical. Este es el espacio donde organizo mis ideas y las comparto con el mundo. Puedes encontrar guías, explicaciones, opiniones y artículos de humor."
 
+  # Numbers of articles for index
+  recentArticles = 5
+
 	# Custom CSS applied to default styles.
 	customCSS = "css/custom.css"
 
-# Nav.
+  # List of tools used to build the page
+  [[params.tools]]
+    name = "Hugo"
+    title = "Built with HUGO"
+    icon = "/img/icons/hugo.png"
+    url = "https://gohugo.io/"
 
-[[menu.main]]
-name = "Sobre mi"
-url = "/sobre-mi"
-weight = 1
+  [[params.tools]]
+    name = "icons8"
+    title = "Icons from icons8"
+    icon = "/img/icons/icons8.png"
+    url = "https://icons8.com/"
 
-[[menu.main]]
-name = "Contacto"
-url = "/contacto"
-weight = 2
+  [[params.tools]]
+    name = "Netlify"
+    title = "Hosted by Netlify"
+    icon = "/img/icons/netlify.png"
+    url = "https://www.netlify.com/"
 
-# List of tools used to build the page
-[[params.tools]]
-  name = "Hugo"
-  title = "Built with HUGO"
-  icon = "/img/icons/hugo.png"
-  url = "https://gohugo.io/"
+  [[params.social]]
+  name = "GitHub"
+  icon = "icon-github"
+  url = "https://github.com/nardoyala"
 
-[[params.tools]]
-  name = "icons8"
-  title = "Icons from icons8"
-  icon = "/img/icons/icons8.png"
-  url = "https://icons8.com/"
+  [[params.social]]
+  name = "LinkedIn"
+  icon = "icon-linkedin"
+  url = "https://linkedin.com/in/nardoyala"
 
-[[params.tools]]
-  name = "Netlify"
-  title = "Hosted by Netlify"
-  icon = "/img/icons/netlify.png"
-  url = "https://www.netlify.com/"
-
-[[params.social]]
-name = "GitHub"
-icon = "icon-github"
-url = "https://github.com/nardoyala"
-
-[[params.social]]
-name = "LinkedIn"
-icon = "icon-linkedin"
-url = "https://linkedin.com/in/nardoyala"
-
-[[params.social]]
-name = "Twitter"
-icon = "icon-twitter"
-url = "https://twitter.com/nardoyala"
+  [[params.social]]
+  name = "Twitter"
+  icon = "icon-twitter"
+  url = "https://twitter.com/nardoyala"
 
