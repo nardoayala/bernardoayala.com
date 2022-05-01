@@ -35,11 +35,6 @@ name = "Sobre mi"
 url = "/sobre-mi"
 weight = 1
 
-[[menu.main]]
-name = "Contacto"
-url = "/contacto"
-weight = 2
-
 [params]
 
   # Site description
