@@ -35,11 +35,17 @@ name = "Sobre mi"
 url = "/sobre-mi"
 weight = 1
 
+
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 2
+
 [params]
 
   # Site description
-  description = "Frontend developer and open source contributor. This is my personal blog."
-  
+  description = "Bernardo Ayala: Desarrollador Frontend. Este es mi sitio personal donde comparto un poco de mi vida, mis conocimientos y cualquier tema que me interese o divertido."
+
   # Site featured image
   images = ["/img/profile-picture.webp"]
 
@@ -50,10 +56,10 @@ weight = 1
   profilePicture = "/img/profile-picture.webp"
 
   # Greeting message
-  greetingMessage = "¡Hola! Soy Bernardo Ayala"
+  greetingMessage = "¡Hola! Soy Bernardo"
 
   # Small about me
-  about = "Soy un Frontend developer viviendo en una distopía tropical. Este es el espacio donde organizo mis ideas y las comparto con el mundo. Puedes encontrar guías, explicaciones, opiniones y artículos de humor."
+  about = "Soy desarrollador Frontend. Este es mi sitio personal donde comparto un poco de mi vida, mis conocimientos y cualquier tema que me interese o divertido."
 
   # Numbers of articles for index
   recentArticles = 5
@@ -83,15 +89,15 @@ weight = 1
   [[params.social]]
   name = "GitHub"
   icon = "icon-github"
-  url = "https://github.com/nardoyala"
+  url = "https://github.com/nardoayala"
 
   [[params.social]]
   name = "LinkedIn"
   icon = "icon-linkedin"
-  url = "https://linkedin.com/in/nardoyala"
+  url = "https://linkedin.com/in/bernardoayala"
 
   [[params.social]]
   name = "Twitter"
   icon = "icon-twitter"
-  url = "https://twitter.com/nardoyala"
+  url = "https://twitter.com/nardoayala"
 
